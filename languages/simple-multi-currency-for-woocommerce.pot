@@ -1,0 +1,103 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple multi-currency for Woocommerce by Invelity\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-23 10:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/admin-fees-page.php:84
+msgid "All countries defaults"
+msgstr ""
+
+#: includes/settings-page.php:72
+msgid "Allow multiple product prices"
+msgstr ""
+
+#: includes/coupons.php:20 includes/coupons.php:32
+msgid "Any countries"
+msgstr ""
+
+#: includes/coupons.php:19
+msgid "Billing countries"
+msgstr ""
+
+#: includes/admin-fees-page.php:113
+msgid "Disable on Free Shipping"
+msgstr ""
+
+#: includes/admin-fees-page.php:118
+msgid "Disable on Zero Shipping"
+msgstr ""
+
+#: includes/settings-page.php:66
+msgid "Display languages switcher"
+msgstr ""
+
+#: includes/settings-page.php:79
+msgid "Enable support for WPML plugin"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://plugins.up2u.sk/plugins/simple-multi-currency-for-woocommerce"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://invelity.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "INVELITY"
+msgstr ""
+
+#. Name of the plugin
+msgid "Simple multi-currency for Woocommerce by Invelity"
+msgstr ""
+
+#: includes/coupons.php:29
+msgid ""
+"List of allowed countries to check against the customer's billing country "
+"for the coupon to remain valid."
+msgstr ""
+
+#: includes/coupons.php:41
+msgid ""
+"List of allowed countries to check against the customer's shipping country "
+"for the coupon to remain valid."
+msgstr ""
+
+#: includes/settings-page.php:9
+msgid "MP4P Settings"
+msgstr ""
+
+#: includes/admin-fees-page.php:6 includes/admin-fees-page.php:61
+msgid "Payment settings"
+msgstr ""
+
+#: simple-multi-currency-for-woocommerce.php:20
+msgid ""
+"Plugin Simple multi-currency for Woocommerce by Invelity was deactivated, because Woocommerce plugin is "
+"required to install."
+msgstr ""
+
+#: includes/coupons.php:31
+msgid "Shipping countries"
+msgstr ""
+
+#: includes/coupons.php:82
+#, php-format
+msgid "Sorry, coupon \"%s\" is not applicable to your country."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin set in Woocommerce custom fees for allowed shipping countries."
+msgstr ""

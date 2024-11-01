@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple multi-currency for Woocommerce by Invelity\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-14 17:51+0000\n"
+"PO-Revision-Date: 2020-04-14 18:14+0000\n"
+"Last-Translator: \n"
+"Language-Team: Slovenčina\n"
+"Language: sk_SK\n"
+"Plural-Forms: nplurals=3; plural=( n == 1 ) ? 0 : ( n >= 2 && n <= 4 ) ? 1 : "
+"2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.4"
+
+#: init.php:6
+msgid ""
+"Plugin Simple multi-currency for Woocommerce by Invelity was deactivated, "
+"because Woocommerce plugin is required to install."
+msgstr ""
+"Plugin Simple multi-currency pre Woocommerce od Invelity bol deaktivovaný, "
+"pretože je potrebné mať nainštalovaný plugin Woocommerce."
+
+#: includes/admin/admin-fees-page.php:6 includes/admin/admin-fees-page.php:67
+msgid "Payment settings"
+msgstr "Nastavenie platieb"
+
+#: includes/admin/admin-fees-page.php:88
+msgid "All countries defaults"
+msgstr "Všeobecné pre všetky krajiny"
+
+#: includes/admin/admin-fees-page.php:117
+msgid "Disable on Free Shipping"
+msgstr "Vypnúť pri doprave zadarmo"
+
+#: includes/admin/admin-fees-page.php:122
+msgid "Disable on Zero Shipping"
+msgstr "Vypnúť pri nulovej cene za dopravu"
+
+#: includes/admin/admin-fees-page.php:171
+msgid "Set currency symbols"
+msgstr "Nastavenie symbolov meny"
+
+#: includes/admin/settings-page.php:105
+msgid "Display languages switcher"
+msgstr "Zobraziť prepínač jazykov"
+
+#: includes/admin/settings-page.php:115
+msgid "Display languages switcher in Cart"
+msgstr "Zobraziť prepínač jazykov v Košíku"
+
+#: includes/admin/settings-page.php:124
+msgid "Display languages switcher in Checkout"
+msgstr "Zobraziť prepínač jazykov v Pokladni"
+
+#: includes/admin/settings-page.php:133
+msgid "Display languages switcher in pages with Woocommerce use"
+msgstr "Zobraziť prepínač jazykov na stránkach, kde beží Woocommerce"
+
+#: includes/admin/settings-page.php:142
+msgid "Display languages switcher in pages with product shortcodes"
+msgstr "Zobraziť prepínač jazykov na stránkach so shorcode produktov"
+
+#: includes/admin/settings-page.php:153
+msgid "Change currency based on shipping address"
+msgstr "Zmeniť menu na základe adresy doručenia"
+
+#: includes/admin/settings-page.php:162
+msgid "Rewrite default WooCommerce reports"
+msgstr "Prepísanie základných Woocommerce reportov"
+
+#: includes/admin/settings-page.php:170
+msgid "Recalculate currency rates in reports"
+msgstr "Prepočítavanie meny v reportoch"
+
+#: includes/admin/settings-page.php:180
+msgid "Enable support for WPML plugin"
+msgstr "Zapnúť podporu pre WPML plugin"
+
+#: includes/admin/settings-page.php:273
+msgid "Settings was saved :)"
+msgstr "Nastavenia boli uložené :)"
+
+#: includes/functions/widgets.php:14
+msgid "Widget to embed the switcher in sidebar."
+msgstr "Simple multi-currencz pre Woocommerce Widget"
+
+#: includes/functions/widgets.php:16
+msgid "Simple multi-currency for Woocommerce Widget"
+msgstr "Simple multi-currencz pre Woocommerce Widget"
+
+#: includes/functions/coupons.php:19
+msgid "Billing countries"
+msgstr "Fakturačné krajiny"
+
+#: includes/functions/coupons.php:20 includes/functions/coupons.php:32
+msgid "Any countries"
+msgstr "Akákoľvek krajiny"
+
+#: includes/functions/coupons.php:29
+msgid ""
+"List of allowed countries to check against the customer's billing country "
+"for the coupon to remain valid."
+msgstr ""
+"Zoznam povolených krajín, ktoré sa majú skontrolovať proti fakturačnej "
+"krajine zákazníka, aby mohol kupón zostať platný."
+
+#: includes/functions/coupons.php:31
+msgid "Shipping countries"
+msgstr "Krajiny doručenia"
+
+#: includes/functions/coupons.php:41
+msgid ""
+"List of allowed countries to check against the customer's shipping country "
+"for the coupon to remain valid."
+msgstr ""
+"Zoznam povolených krajín, ktoré sa majú skontrolovať proti krajine doručenia "
+"zákazníka, aby mohol kupón zostať platný."
+
+#: includes/functions/coupons.php:83
+#, php-format
+msgid "Sorry, coupon \"%s\" is not applicable to your country."
+msgstr ""
+"Prepáčte, ale kupón \\\"%s\\\" nemôže byť aplikovaný pre Vami zvolenú "
+"krajinu."
+
+#. Name of the plugin
+msgid "Simple multi-currency for Woocommerce by Invelity"
+msgstr "Simple multi-currency pre Woocommerce od Invelity"
+
+#. Description of the plugin
+msgid ""
+"This plugin allow in Woocommerce set custom fees for payment for allowed "
+"shipping countries, set currency symbols for allowed shipping countries, set "
+"product price and sale price for each shippment country, set if coupon is "
+"allowed for shippment or billing country, display currency switcher in shop, "
+"product and cart, filter orders by product in admin orders table."
+msgstr ""
+"Tento plugin umožňuje vo Woocommerce nastaviť rôzne poplatky pre doručenie, "
+"nastavenie symbolov meny pre povolené krajiny doručenia, nastavenie cien a "
+"zľavových cien pre každú krajinu doručenia, nastavenie kupónov pre povolené "
+"krajiny doručenia alebo fakturácie, zobrazenie prepínača v obchode, produkte,"
+" filtrovanie objednávok podľa produktu v tabuľke objednávok v administrácii."
+
+#. URI of the plugin
+msgid "https://gitlab.com/Novysedlak/simple-multi-currency-for-woocommerce"
+msgstr ""
+
+#. Author of the plugin
+msgid "INVELITY"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://invelity.com"
+msgstr ""
